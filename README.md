@@ -7,8 +7,6 @@ Il permet de gérer les opérations suivantes :
 - ➕ Ajout d’une offre d’occupation temporaire  
 - ✏️ Modification d’une offre existante  
 - 🗑️ Suppression d’une offre  
-- 📄 Consultation des offres
-
 Le service expose des **API REST réactives** et peut être consommé par une application frontend (ex : Angular).
 
 ---
