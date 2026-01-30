@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: espace-service
+
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/Espace_db
+    username: postgres
+    password: 
+
+
+  spring:
+  cloud:
+    config:
+      enabled: false
+server:
+  port: 9091
