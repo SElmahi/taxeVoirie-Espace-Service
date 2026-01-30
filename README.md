@@ -21,8 +21,7 @@ Le service expose des **API REST réactives** et peut être consommé par une ap
 - Spring Data R2DBC  
 - PostgreSQL  
 - Lombok  
-- Jakarta Validation  
-- SpringDoc OpenAPI (Swagger)  
+- Jakarta Validation   
 - Maven  
 
 ---
